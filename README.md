@@ -12,3 +12,7 @@ Jambu biji adalah tanaman yang dapat tumbuh dimana saja dan mudah dicari. Tanama
 ## Daun Seledri
 Seledri adalah tanaman yang sering dijadikan herba. Tanaman seledri termasuk dalam keluarga Umbelliferae. Daun seledri yang tumbuh pada pola roset atau berbentuk daun majemuk menyirip dengan lima atau tujuh anak daun. Daun melekat pada batang dengan tangkain daun panjang dan berdaging.
 ![s1](https://user-images.githubusercontent.com/117715875/200752219-26db6551-5285-4d6b-8e82-205d6b3aaebb.jpg)
+
+# Authors
+1. Doni Ahmad (121)
+2. Viola Indriani (122)
